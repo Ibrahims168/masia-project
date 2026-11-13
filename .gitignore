@@ -1,0 +1,11 @@
+node_modules
+.next
+next-env.d.ts
+
+# local env files (may contain keys)
+.env*
+!.env.example
+
+# build caches
+*.tsbuildinfo
+.vercel
